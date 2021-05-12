@@ -1,3 +1,4 @@
+# CaesarVigenere-Cipher-with-Frequency-Analysis
 Program to solve a simple shift Caesar cipher and the standard Vigenère cipher both based on the use of frequency analysis. Program solves Vigenère cipher without knowing the key or the key length with the users help/interaction. Using the index of coincidence method to find key length. Then using frequency analysis to determine the key and using the Vigenère Square to decrypt the text.
 ***Important: The longer the text, the more characters, the longer it will take for the program to generate a list of Coincidences as well with decrypting the text.***
 
